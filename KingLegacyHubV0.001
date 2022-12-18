@@ -51,7 +51,7 @@ end)
  end)
 
  SectionScript:NewButton("SCRIPT>> KingLegacy 4", "KING LEGACY/Join discord for more scripts", function()
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua"))()
+     loadstring(game:HttpGet"https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua")()
  end)
 
 --CREDITS 
