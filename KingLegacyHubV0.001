@@ -43,8 +43,8 @@ local SectionScript = TabMain:NewSection("SCRIPT SECTION / KING LEGACY")
  end)
 
  SectionScript:NewButton("SCRIPT>> KingLegacy 2", "KING LEGACY/Join discord for more scripts", function()
-     loadstring(game:HttpGet('loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/KingPiece.lua"))()'))()
- end)
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/SCRIPTS/KingPiece.lua"))()
+end)
 
  SectionScript:NewButton("SCRIPT>> KingLegacy 3", "KING LEGACY/Join discord for more scripts", function()
      loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/KL")()
@@ -53,8 +53,7 @@ local SectionScript = TabMain:NewSection("SCRIPT SECTION / KING LEGACY")
  SectionScript:NewButton("SCRIPT>> KingLegacy 4", "KING LEGACY/Join discord for more scripts", function()
      loadstring(game:HttpGet("https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua"))()
  end)
- SectionScript:NewButton("SCRIPT>> COMING SOON.....", "KING LEGACY/Join discord for more scripts", function()
-end)
+
 --CREDITS 
 local TabCredits = Window:NewTab("CREDITS")
 local SectionCredits = TabCredits:NewSection("CREDITS")
