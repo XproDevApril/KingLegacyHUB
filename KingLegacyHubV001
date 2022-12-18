@@ -54,14 +54,6 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main
  end)
  SectionScript:NewButton("SCRIPT>> COMING SOON.....", "KING LEGACY/Join discord for more scripts", function()
 end)
---PLAYER CONFIG
-local TabPlayer = Window:NewTab("KING LEGACY")
-local SectionPlayer = TabPlayer:NewSection("PLAYER SKILL")
-    SectionPlayer:NewButton("WalkSpeed", "coming soon...", function()
-    SectionPlayer:NewButton("JumpPower", "coming soon...", function()
-
-        local SeccionPlayer = TabPlayer:NewSection("ANIMATIONS")
-            SeccionPlayer:NewButton("COMING SOON", "next update")
 --CREDITS 
 local TabCredits = Window:NewTab("CREDITS")
 local SectionCredits = TabCredits:NewSection("CREDITS")
