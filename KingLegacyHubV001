@@ -50,7 +50,7 @@ end)
      loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/KL")()
  end)
 
- SectionScript:NewButton("SCRIPT>> KingLegacy 4", "KING LEGACY/Join discord for more scripts", function()
+ SectionScript:NewButton("SCRIPT>> KingLegacy 4 IT DOES NOT WORK ", "doesn't work, use another hub script", function()
      loadstring(game:HttpGet"https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua")()
  end)
 
