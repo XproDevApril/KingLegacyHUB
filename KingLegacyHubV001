@@ -46,9 +46,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Strikehubv2z/StormSKz
     loadstring(game:HttpGet('https://raw.githubusercontent.com/NinoGod/NetnaYay/8d21ce23346c500c93bb8b4a71f7791e4058a70b/startload.lua'))()
  end)
 
- SectionScript:NewButton("SCRIPT>> KingLegacy 3", "KING LEGACY/Join discord for more scripts", function()
-loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/KL")()
- end)
+ SectionScript:NewButton("SCRIPT>> KingLegacy 3", "KING LEGACY/DONT WORK, pls use other", function()
+
 
  SectionScript:NewButton("SCRIPT>> KingLegacy 4IT DOES NOT WORK ", "KING LEGACY/Join discord for more scripts", function()
  end)
